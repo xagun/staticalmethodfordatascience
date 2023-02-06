@@ -6,3 +6,4 @@ This contains EEG data set required for this task.
 3. Time
 
 The assignmnet.rmd file contains the codes used in this task for plotting graphs and data visualization.
+the code for assignment can be found in EEG_data_visualization_in_R file.
